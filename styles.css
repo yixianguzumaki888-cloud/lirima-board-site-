@@ -107,3 +107,22 @@
   height: 36px;
   cursor: pointer;
 }
+
+.site-footer {
+  padding: 20px 32px;
+  text-align: center;
+  border-top: 1px solid #e4e8f1;
+  color: #6f7890;
+  font-size: 13px;
+  background: white;
+}
+
+.site-footer a {
+  color: #24429a;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
