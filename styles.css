@@ -135,3 +135,5 @@
 .auth-tab{flex:1;border:1px solid #e4e8f1;background:white;color:#6f7890;border-radius:10px;padding:10px;font-weight:700;cursor:pointer}
 .auth-tab.active{background:#24429a;color:white;border-color:#24429a}
 .auth-error{color:#c0392b;font-size:13px;margin:0}
+#detailModal .modal-card h4{font-size:20px;margin:10px 0 8px}
+#detailModal .modal-card p{color:#6f7890;font-size:14px;line-height:1.6;margin:0 0 4px}
