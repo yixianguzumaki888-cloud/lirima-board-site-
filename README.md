@@ -1,0 +1,1 @@
+Lirima Board multilingual prototype. Open index.html in a browser.
