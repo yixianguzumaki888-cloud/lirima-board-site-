@@ -126,3 +126,12 @@
 .site-footer a:hover {
   text-decoration: underline;
 }
+
+.login-btn{margin-top:auto;border:0;background:#263866;color:#cbd3e8;border-radius:12px;padding:12px;text-align:left;font-weight:700;cursor:pointer;display:flex;align-items:center;gap:8px}
+.login-btn:hover{background:#324a8c;color:white}
+.logout-btn{margin-left:auto;background:transparent;border:0;color:#aeb8d4;font-size:18px;cursor:pointer;padding:4px 6px;border-radius:8px}
+.logout-btn:hover{color:white;background:#ffffff1a}
+.auth-tabs{display:flex;gap:8px;margin-bottom:16px}
+.auth-tab{flex:1;border:1px solid #e4e8f1;background:white;color:#6f7890;border-radius:10px;padding:10px;font-weight:700;cursor:pointer}
+.auth-tab.active{background:#24429a;color:white;border-color:#24429a}
+.auth-error{color:#c0392b;font-size:13px;margin:0}
